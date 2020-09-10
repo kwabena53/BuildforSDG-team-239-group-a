@@ -24,9 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-
   "homepage": "https://buildforsdgcohort2.github.io/Team-239-group-a-frontend/",
-
   "eslintConfig": {
     "extends": "react-app"
   },
